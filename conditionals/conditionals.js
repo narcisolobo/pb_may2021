@@ -87,3 +87,4 @@ if (isFriday || isNight) {
 
 // && both conditionals must be true
 // || either conditional can be true
+
