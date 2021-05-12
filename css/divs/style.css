@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+#menu,
+#content {
+    display: inline-block;
+}
+
+#menu {
+    background-color: aqua;
+    padding: 20px;
+    border: 3px solid grey;
+    margin: 20px;
+    width: 150px;
+}
+
+#content {
+    width: 600px;
+    background-color: coral;
+    padding: 20px;
+}
+
+nav li {
+    display: inline-block;
+}
